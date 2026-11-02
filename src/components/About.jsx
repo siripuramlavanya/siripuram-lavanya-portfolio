@@ -65,7 +65,7 @@ function About() {
                   <div className="flex-1 w-full overflow-hidden rounded-xl">
                     <img
                       src={stackImage}
-                      alt={personalInfo.name}
+                      alt="Siripuram Lavanya — Data Analyst, TAP Academy student"
                       className="w-full h-full object-cover object-top shadow-inner"
                     />
                   </div>
