@@ -123,7 +123,20 @@ export const technicalSkills = {
   ],
 };
 
-export const leadershipList = [];
+export const leadershipList = [
+  {
+    title: "University Statistics Society",
+    role: "Student Coordinator",
+    badge: "Campus Leadership",
+    description: "Organized data workshops, analytical problem-solving sessions, and peer learning forums for statistics undergraduates.",
+  },
+  {
+    title: "State Analytics Symposium",
+    role: "Event Organizer",
+    badge: "Event Coordination",
+    description: "Coordinated symposium sessions on modern business intelligence trends, dashboard storytelling, and applied statistical modeling.",
+  },
+];
 
 export const internshipsList = [
   {
